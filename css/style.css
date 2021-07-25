@@ -23,7 +23,7 @@
     color: floralwhite;
 }
 
-.address{
+address{
     font-size: 80%;
     margin: 0px;
     color: #0f0f0f;
@@ -33,15 +33,12 @@ body{
     padding:50px 0px 0px 0px;
     z-index: 0;
 }
+html{
+    font-weight: bold;
+}
 
 .navbar-dark{
     background-color: #512DA8;
 }
 
-.nav-item{
-    padding: 0px 5px 0px 5px;
-}
 
-.fa{
-    padding: 0px 5px 0px 5px;
-}
