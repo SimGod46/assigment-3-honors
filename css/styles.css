@@ -1,0 +1,31 @@
+
+.jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background: #9575CD;
+    color: floralwhite; }
+  
+  .row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px; }
+
+  .navbar{
+    background: black;
+  }
+  .figure-img {
+    width: 200px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .media img {
+    width: 200px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .media{
+    margin-bottom: 70px;
+  }
